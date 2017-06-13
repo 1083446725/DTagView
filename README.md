@@ -1,0 +1,4 @@
+# DTagView
+项目里以前是用一个for循环把UIButton添加在一个View上，这么做当数据量大的时候会出现界面卡顿的情况，所以自已自定义了一个CustomFlowLayout布局，
+用UICollectionViewCell做了一个自适应文字宽度，自动换行，间距固定的菜单栏
+
